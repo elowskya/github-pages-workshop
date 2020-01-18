@@ -3,7 +3,7 @@ layout: blogpost
 title: First Blog Coming Soon
 subtitle: Check back for update soon!
 date: 2020-01-17 10:14:43 -0800
-main_image: /assets/images/blog6.jpg
+main_image: /assets/images/blog3.jpg
 author: Me
 categories: [business, code]
 ---

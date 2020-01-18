@@ -1691,7 +1691,8 @@ input, select, textarea {
 
 	.image {
 		display: inline-block;
-		outline: 0;
+		/* outline: 0; */
+		border-radius: 5%;
 	}
 
 		.image img {
@@ -1718,6 +1719,13 @@ input, select, textarea {
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
+		}
+
+		.landingImage {
+			border-radius: 15%;
+		}
+		#landingImage {
+			border-radius: 5%;
 		}
 
 /* List */
@@ -1776,6 +1784,7 @@ input, select, textarea {
 				padding-left: 0;
 				margin-left: 0;
 			}
+
 
 /* Contact */
 
@@ -1927,30 +1936,6 @@ input, select, textarea {
 					line-height: 1.5em;
 				}
 
-				ul.social li a.fa-facebook {
-					background: #3c5a98;
-				}
-
-					ul.social li a.fa-facebook:hover {
-						background: #4c6aa8;
-					}
-
-				ul.social li a.fa-twitter {
-					background: #2daae4;
-				}
-
-					ul.social li a.fa-twitter:hover {
-						background: #3dbaf4;
-					}
-
-				ul.social li a.fa-dribbble {
-					background: #c4376b;
-				}
-
-					ul.social li a.fa-dribbble:hover {
-						background: #d4477b;
-					}
-
 				ul.social li a.fa-linkedin {
 					background: #006599;
 				}
@@ -1959,21 +1944,12 @@ input, select, textarea {
 						background: #1075a9;
 					}
 
-				ul.social li a.fa-tumblr {
-					background: #2b4661;
+				ul.social li a.fa-github {
+					background: #006599;
 				}
-
-					ul.social li a.fa-tumblr:hover {
-						background: #3b5671;
-					}
-
-				ul.social li a.fa-google-plus {
-					background: #da2713;
+				ul.social li a.fa-github:hover {
+					background: #1075a9;
 				}
-
-					ul.social li a.fa-google-plus:hover {
-						background: #ea3723;
-					}
 
 /* Icons */
 
@@ -2267,7 +2243,7 @@ input, select, textarea {
 	#main {
 		position: relative;
 		background: #f7f7f7; /*url("images/bg02.png");*/
-		padding: 4em 0 4em 0;
+		/* padding: 4em 0 4em 0; */
 	}
 
 		#main:before {
@@ -2283,7 +2259,7 @@ input, select, textarea {
 		}
 
 		#main .major h2 {
-			background: #f7f7f7 /*url("images/bg02.png");*/
+			background: #f7f7f7;
 		}
 
 /* Footer */

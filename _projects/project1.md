@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Project 1
+title: Pilates Site
 subtitle: A fun project I enjoyed.
 main_image: /assets/images/project1.jpg
-categories: [node.js, javascript, iot]
+categories: [Bootstrap, JavaScript, Heroku]
 ---
 Project 1 was a **really good project** that I put a **lot** of work into.
 

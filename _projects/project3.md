@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Project 3
+title: 10 pg Mobile & Desktop Site
 subtitle: A hardware & microcontroller project.
 main_image: /assets/images/project3.jpg
-categories: [arduino, c, iot]
+categories: [HTML, CSS, JavaScript]
 ---
 Project 3 saw me working with microcontrollers and a soldering iron!
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: All About Me
+title: About Me
 main_image: /assets/images/me.jpg
 permalink: /about/
 ---

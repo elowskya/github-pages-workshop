@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: Project 4
 subtitle: Machine Learning with Erlang.
@@ -26,4 +26,4 @@ Lorem ipsum dolor amet farm-to-table sartorial direct trade, humblebrag actually
 4. Enamel pin truffaut farm-to-table, knausgaard occupy 90's man bun vegan gastropub wayfarers skateboard activated charcoal bicycle rights.
 5. Jianbing wayfarers kitsch air plant glossier XOXO.
 
-Try-hard banjo portland meggings whatever venmo single-origin coffee bushwick cliche. Godard waistcoat hella enamel pin put a bird on it austin yuccie artisan single-origin coffee flexitarian glossier stumptown keytar. Listicle vexillologist mixtape quinoa polaroid offal. Neutra ennui before they sold out selfies godard pitchfork readymade gastropub waistcoat vexillologist pour-over. Post-ironic kitsch kinfolk 90's listicle waistcoat. Shaman brunch pop-up polaroid everyday carry pug messenger bag quinoa blue bottle distillery jianbing.
+Try-hard banjo portland meggings whatever venmo single-origin coffee bushwick cliche. Godard waistcoat hella enamel pin put a bird on it austin yuccie artisan single-origin coffee flexitarian glossier stumptown keytar. Listicle vexillologist mixtape quinoa polaroid offal. Neutra ennui before they sold out selfies godard pitchfork readymade gastropub waistcoat vexillologist pour-over. Post-ironic kitsch kinfolk 90's listicle waistcoat. Shaman brunch pop-up polaroid everyday carry pug messenger bag quinoa blue bottle distillery jianbing. -->

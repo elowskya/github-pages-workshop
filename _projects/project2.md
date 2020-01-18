@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Project 2
+title: Nested List Landing Page
 subtitle: A group project that was really challenging.
 main_image: /assets/images/project2.jpg
-categories: [javascript, react]
+categories: [HTML, CSS]
 ---
 Project 2 was a **real challenge**, working with a **large team**.
 

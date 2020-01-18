@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: Project 5
 subtitle: Ongoing project to build an API in Node.js.
@@ -32,4 +32,4 @@ Freegan church-key poke, street art aesthetic franzen swag. Ennui marfa letterpr
 
 Ethical tote bag banjo hexagon, butcher dreamcatcher kitsch bespoke jean shorts salvia yr live-edge.
 
-Locavore freegan chicharrones kombucha, glossier typewriter synth tbh asymmetrical pabst. Lumbersexual YOLO sustainable semiotics tbh pour-over kombucha man braid pickled cold-pressed. Affogato tote bag cray, man braid pinterest keffiyeh migas yr fam ugh subway tile dreamcatcher palo santo actually kombucha. Whatever leggings semiotics lyft.
+Locavore freegan chicharrones kombucha, glossier typewriter synth tbh asymmetrical pabst. Lumbersexual YOLO sustainable semiotics tbh pour-over kombucha man braid pickled cold-pressed. Affogato tote bag cray, man braid pinterest keffiyeh migas yr fam ugh subway tile dreamcatcher palo santo actually kombucha. Whatever leggings semiotics lyft. -->

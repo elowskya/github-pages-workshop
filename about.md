@@ -4,17 +4,22 @@ title: About Me
 main_image: /assets/images/me.jpg
 permalink: /about/
 ---
-This page is all about me and would contain bio information, maybe a resume and some details about my hobbies...
+So I guess this is the part where I tell you that I like
+yoga, dogs, and craft beer...
 
-For example, I like to:
+Let's not do that:
 
-* Do this thing.
-* And go to these places: a, b, c.
-* My hobbies also include this.
-* And so on...
+* Instead, let's be a little real, but not get too comfortable.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc eget, bibendum risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat. Vestibulum dapibus interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a purus non congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis, cursus est eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur erat sit amet tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis libero posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada finibus. Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.
+My background is non traditional. I'm a first generation college student. I initially attended a Community College since it was free for me due to government funding and my grandmother was going to let me live with her provided I attend class and work part time. I didn't have a goal in mind as to a degree. I took classes that interested me including: Business, Sciences, Math, and 
+of course Yoga. When it came time to finish, I chose Kinesiology since I figured every one needs to move in order to live (or eat - I also considered Dietetics). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc eget, bibendum risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat. Vestibulum dapibus interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a purus non congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis, cursus est eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur erat sit amet tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis libero posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada finibus. Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.
+I graduated from Grand Valley State University with a Bachelor's of Science degree in Exercise Science with the highlights including working with the Special Olympics Basketball program and an intership in Cardiovascular Rehabilitation. Thereafter, I worked as a Fitness Program Director and a Corporate Wellness Program Manager. I realized that I was becoming an expert in my field when it comes to program optimization and KPI's; however, I also realized that long term, I am hungry to keep learning and challenging myself.
 
+It was bold, but I quit my Corporate Management position and traveled to California and enrolled into a Full Stack Coding Bootcamp. This bootcamp was the hardest thing I have ever done. I am used to being the role model and person where everyone asks for advice. I was definitley not at the top of my class here. I kept practicing my code and watching videos and reading about blog posts on code. I even went through almost all of my assignments and resubmitted them. I am ever grateful to the instructor and TA's for their patience.
 
+Web development is a skill. There's a technical aspect that takes a little time to start to acclimate your brain to. Even coding for hours takes time to build up the mental endurance. After completing my Coding Bootcamp, I initially took on a couple clients. Coding for clients, is also a skill which involves an incredible amount of communication. I can definitely say that I have learned a lot. 
+
+I still take classes (online and in person) and each project I take on, I learn something new and become better. 
+
+I am excited to share this part of my journey with you. 

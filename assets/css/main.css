@@ -1615,6 +1615,8 @@ input, select, textarea {
 		border: 0;
 		border-radius: 5px;
 		background: #d52349;
+		/* background: rgb(206, 11, 11);
+		background: gold; */
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1633,6 +1635,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			background: #e53359;
+			/* background: rgb(241, 39, 39); */
 		}
 
 		input[type="button"]:active,
@@ -1937,18 +1940,18 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-linkedin {
-					background: #006599;
+					background: #d52349;
 				}
 
 					ul.social li a.fa-linkedin:hover {
-						background: #1075a9;
+						background: #e53359;
 					}
 
 				ul.social li a.fa-github {
-					background: #006599;
+					background: #d52349;
 				}
 				ul.social li a.fa-github:hover {
-					background: #1075a9;
+					background: #e53359;
 				}
 
 /* Icons */

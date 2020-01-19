@@ -1615,8 +1615,8 @@ input, select, textarea {
 		border: 0;
 		border-radius: 5px;
 		background: #d52349;
-		/* background: rgb(206, 11, 11);
-		background: gold; */
+		background: rgb(206, 11, 11);
+		background: rgb(246, 210, 1);
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1635,7 +1635,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			background: #e53359;
-			/* background: rgb(241, 39, 39); */
+			background: gold;
 		}
 
 		input[type="button"]:active,
@@ -1644,6 +1644,7 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background: #c51349;
+			background: rgb(246, 210, 1);
 		}
 
 		input[type="button"].alt,

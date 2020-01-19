@@ -1,5 +1,5 @@
 <h1>Portfolio Site with Jekyll</h1>
-<img src="assets/images/portfolioJekyllSite.PNG">
+<img src="assets/images/portfolioJekyllSiteLargeGrab.PNG">
 
 <h2>DESCRIPTION</h2>
 <p>A Portfolio Site using Jekyll to serve Blogs:</p>
@@ -20,8 +20,6 @@ an overview and 2 hour speed lecture on using Jekyll including helpful syntax to
 
 
 
-<footer>
-
 <h4>If you would like to check out the code from the workshop</h4>
 
 ```
@@ -32,4 +30,3 @@ $ bundle exec jekyll serve --watch
 ```
 
 Then browse to `http://127.0.0.1:4000/github-pages-workshop/`.
-</footer>

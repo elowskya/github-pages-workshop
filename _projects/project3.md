@@ -1,24 +1,14 @@
 ---
 layout: project
 title: 10 pg Mobile & Desktop Site
-subtitle: A hardware & microcontroller project.
+subtitle: A 10 pg mobile & desktop site.
 main_image: /assets/images/project3.jpg
 categories: [HTML, CSS, JavaScript]
 ---
-Project 3 saw me working with microcontrollers and a soldering iron!
 
-Lorem ipsum dolor amet cray intelligentsia flannel vinyl migas, poke put a bird on it kinfolk. Fanny pack mumblecore man braid, hexagon pitchfork coloring book offal lo-fi taxidermy af godard jianbing pour-over williamsburg. Kinfolk offal snackwave pabst. Beard craft beer selvage celiac. Four loko post-ironic chambray etsy man bun. Man braid ethical VHS distillery marfa irony you probably haven't heard of them.
+## Overview
 
-## Hard Coding Hardware!
-
-Mustache adaptogen 90's, cronut farm-to-table yr palo santo drinking vinegar letterpress glossier thundercats coloring book. 
-
-1. Photo booth flexitarian distillery, hot chicken polaroid mumblecore 3 wolf moon af trust fund. 
-2. Godard tote bag plaid flannel williamsburg iceland. Woke street art small batch subway tile. 
-3. Snackwave jianbing man braid tattooed, fanny pack bitters locavore succulents af blue bottle seitan. 
-4. Try-hard glossier neutra four loko pok pok.
-
-Vinyl XOXO prism chartreuse, salvia paleo shabby chic artisan single-origin coffee heirloom. Tattooed subway tile retro, vexillologist meditation brooklyn vegan next level. Forage fashion axe pitchfork raw denim master cleanse swag. Taxidermy echo park copper mug fixie pitchfork pop-up fashion axe. Meditation chartreuse asymmetrical irony photo booth.
+This client came in as a referral. Their existing website crashed and the developer quit. 
 
 ## Coding in C
 

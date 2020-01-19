@@ -9,7 +9,7 @@ categories: [Bootstrap, JavaScript, Heroku]
 
 ## Overview
 
-Katy's site was one of the first websites that I was asked to build. She had been teaching classes for years and decided that she wanted another
+This site was one of the first websites that I was asked to build. The client had been teaching classes for years and decided that she wanted another
 avenue for clients to connect with her.
 
 ## The Design Process

@@ -19,13 +19,18 @@ The client was particularly inspired by another IT company website on the East C
 
 Coding this website was a little more challenging since it involved background images with a lot of absolute and relative positioning in order to have the light blue overlay and text which the client liked. In addition, this client wanted to migrate from their existing web host provider to another, so there was a period of time where we compared other web providers and features offered and discussed how this would impact him scaling his other websites in the future. 
 
-**Things that I learned** 
-* How to code a website without a library to call, so pure HTML and CSS
-* Using media queries and the developer tools to check for responsiveness
-* Use of the Z-index and how to make drop down menus
-* How to make the slider appear animated with the dots in html and css
-
 ## Key Takeaways from this Project
-1. Content development is an additional service.
-2. Logos, branding, and image sourcing are also an additional service.
-3. When in doubt, build a Wordpress site.
+1. The time spent discussing web host providers, site configuration, and researching is an additional service.
+2. Logos, branding, image sourcing, and content development are also an additional service.
+3. When working with a client, determine if they have a clear list and explanation of services they want to offer.
+4. When in doubt, build a Wordpress site.
+
+**I learned:** 
+* How to code a website without a library to call, so pure HTML, CSS, & media queries
+* Use of the Z-index and how to make drop down menus
+* How to make the slider appear animated with the dots in HTML & CSS
+* The process of migrating an existing website to a new web host provider
+* Not shown here, but this site was coded and then set up with Wordpress
+* Wordpress installation and configuration of admin accounts and emails
+* Setup of SSL certificates and use of plugin to render site as "https" versus "http"
+* Use of ninja forms plugin to create a contact form and confirmed end points

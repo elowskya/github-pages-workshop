@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro';
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
 		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
@@ -1538,6 +1538,15 @@ input, select, textarea {
 		margin: 0 0 1.5em 0;
 	}
 
+	.color {
+		
+		background-color: rgb(251, 225, 0);
+		/* background-size: contain; */
+		color: white;
+		font-weight: 800;
+		padding: 3em 0 0;
+	}
+
 		header > p {
 			display: block;
 			font-style: italic;
@@ -1942,17 +1951,21 @@ input, select, textarea {
 
 				ul.social li a.fa-linkedin {
 					background: #d52349;
+					background: rgb(251, 225, 0);
 				}
 
 					ul.social li a.fa-linkedin:hover {
 						background: #e53359;
+						background: rgb(250, 229, 38);
 					}
 
 				ul.social li a.fa-github {
 					background: #d52349;
+					background: rgb(251, 225, 0);
 				}
 				ul.social li a.fa-github:hover {
 					background: #e53359;
+					background: rgb(250, 229, 38);
 				}
 
 /* Icons */
@@ -2049,6 +2062,7 @@ input, select, textarea {
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
 		padding: 5em 0 4em 0;
+		padding: 3em 0 3em 0;
 		text-align: center;
 	}
 
@@ -2094,6 +2108,8 @@ input, select, textarea {
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
 					background: #f3f3f3;
+					background: rgb(250, 229, 38);
+					color: white;
 				}
 
 				#nav > ul > li.current > a {

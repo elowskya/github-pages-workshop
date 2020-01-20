@@ -6,10 +6,10 @@ main_image: /assets/images/home.jpg
 
 ## What I do
 
-Every day I code web sites for freelance. That process has evolved from me taking on free clients (which I'll blog about not doing this soon), to having a slowly growing base of clients & projects. 
+Every day I code web sites for freelance. This process has evolved from me taking on free clients (stayed tuned for an upcoming blog about why this is not recommended), to having a growing base of clients & projects. 
 
 ## How does this help you?
 
-I am so glad you asked, because I will be blogging about a year's worth of not necessarily failures, but some really useful tips and tutorials on becoming a better programmer and how to better position yourself when it comes to working with clients so you take on realistic projects and turn real time results which will provide value to both you and your client.
+I am so glad you asked, because I will be blogging about a year's worth of not necessarily failures, but some really useful tips and tutorials on becoming a better programmer and how to better position yourself when it comes to navigating client projects, so you can turn real time results.
 
 Also, if you are interested in collaborating, reach out. The internet and TeamViewer are a click away!

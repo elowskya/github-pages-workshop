@@ -15,7 +15,7 @@ code process and building your business identity.
 an overview and 2 hour speed lecture on using Jekyll including helpful syntax to promote dry code. </p>
 
 <h3>VIEW SITE:</h3>
-<a href="https://elowskya.github.io/github-pages-workshop/">https://elowskya.github.io/github-pages-workshop/</a>
+<a href="https://elowskya.github.io/jekyll-portfolio/">https://elowskya.github.io/jekyll-portfolio/</a>
 
 
 

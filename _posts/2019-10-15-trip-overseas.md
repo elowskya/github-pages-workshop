@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: Don't Become a Software Engineer
-subtitle: subtitle
+subtitle: 
 date: 2020-03-04 10:14:43 -0800
 main_image: /assets/images/blog1.jpg
 author: Me

@@ -1750,6 +1750,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			color: white;
 		}
 
 	ol {
@@ -2060,6 +2061,7 @@ input, select, textarea {
 	#header {
 		position: relative;
 		background: #ffffff;
+		background: linear-gradient(-185deg, rgb(254, 190, 0), rgb(255, 242, 0));
 		border-bottom: solid 1px #ccc;
 		padding: 5em 0 4em 0;
 		padding: 3em 0 3em 0;
@@ -2067,7 +2069,7 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			color: #252122;
+			color: #fff;
 			font-weight: 900;
 			font-size: 2.5em;
 			letter-spacing: -0.035em;

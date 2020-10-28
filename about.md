@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: My Journey
 main_image: /assets/images/me.jpg
 permalink: /about/
 ---

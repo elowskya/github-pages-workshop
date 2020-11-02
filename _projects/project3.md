@@ -19,13 +19,9 @@ The primary goal was to bring their current Wordpress site up to date, so I went
 
 The secondary goal was to update the entire site to be modern and mobile friendly and the client was interested in a particular layout from another website. I sourced images from the client's Wordpress site, and I began the layout process to create a hierarchy and consistency across the pages. 
 
+I also built this site in HTML and CSS to demo for a potential site restructure and used Floats for the menu to make the menu 1 column for mobile friendliness, strengthened the brand by adding images in the same color palatte, made the site easier to navigate by making the navigation bar stand out and be consistent across the pages. 
+
 ## Key Takeaways
 1. Sometimes it is better to start small & work with sections of an existing site
 2. Building a brand new website costs not just their resources, but yours too 
 3. Make sure that you schedule deliverables and have a sign off at each point before proceeding
-
-** I learned **
-* I learned how to structure my elements so that I am using the same element across the pages, but targeting with different classes 
-* This site is mobile friendly - everything builds off itself with media queries
-* The navigation bar has a matching border around the elements, but the border changes color when hovered over
-* The food and drink menu's are using reusable code with float left and float right classes

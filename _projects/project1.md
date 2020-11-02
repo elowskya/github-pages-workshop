@@ -6,7 +6,6 @@ main_image: /assets/images/project1.jpg
 categories: [Bootstrap, JavaScript, Heroku]
 main_href: http://mind-body-lates.herokuapp.com/
 ---
-<!-- A great starting point for any developer. -->
 
 ## Overview
 
@@ -24,10 +23,3 @@ This site is built in Bootstrap, so using the syntax from their library was crit
 1. I would recommend being prepared with a few templates to present to a client that you have personally coded for any "quick projects."
 2. Also regarding any quick projects, I would advise the client to have a file of images, content, logo, and anything else they want on their site ready.
 3. Know ahead of time if your client wants you to maintain their code or if they want to use a CMS to update their own site after it is live and running.
-
-**I learned:**
-
-* Building a single page desktop site and mobile friendly site in Bootstrap.
-* A lot of ways to potentially display images on a website between background attachments, borders, grid layout...
-* Testing cross browser using the developer tools and when the site is live to verify it displays and functions the way I meant for it to do.
-* How to host a static website on Heroku 

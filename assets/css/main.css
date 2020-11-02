@@ -150,6 +150,10 @@ input, select, textarea {
 	h3 {
 		font-size: 1.35em;
 		color: rgb(250, 229, 38);
+		color: black;
+		text-decoration: dotted underline gold;
+		text-align: center;
+		margin-bottom: 4%;
 	}
 
 	a {
@@ -2110,9 +2114,8 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
-					background: #f3f3f3;
-					background: rgb(250, 229, 38);
-					color: white;
+					background: linear-gradient(to right bottom, gold, white);
+					color: black;
 				}
 
 				#nav > ul > li.current > a {

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 10 pg Mobile & Desktop Site
-subtitle: A 10 pg mobile & desktop site.
+title: Restaurant Site
+# subtitle: A 10 pg mobile & desktop site.
 main_image: /assets/images/project3.jpg
 categories: [HTML, CSS, JavaScript]
 main_href: https://elowskya.github.io/dubSite/index.html

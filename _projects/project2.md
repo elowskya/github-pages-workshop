@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Nested List Landing Page
-subtitle: Nested list landing page
+# subtitle: Nested list landing page
 main_image: /assets/images/project2.jpg
 categories: [HTML, CSS]
 main_href: https://elowskya.github.io/rex/

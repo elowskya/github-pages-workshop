@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Pilates Site
-subtitle: A single page business site.
+# subtitle: A single page business site.
 main_image: /assets/images/project1.jpg
 categories: [Bootstrap, JavaScript, Heroku]
 main_href: http://mind-body-lates.herokuapp.com/
